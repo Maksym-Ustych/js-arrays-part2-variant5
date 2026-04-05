@@ -40,7 +40,7 @@ B = [4, 5, 6, 7, 8]
 Відкрити файл `index.html` у браузері.
 
 ### Demo video
-Сюди вставити посилання на відео
+https://docs.google.com/videos/d/1NoSqZtKllMiindyGCc9ReVIhzVQD1Y9qBGZS0VWiMR8/edit?usp=sharing
 
 ### Автор
 Устич Максим  
